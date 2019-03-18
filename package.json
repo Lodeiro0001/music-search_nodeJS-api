@@ -1,0 +1,18 @@
+{
+  "name": "musicbackend",
+  "version": "1.0.0",
+  "description": "Backend para obtener canciones con la API de musicXmatch",
+  "main": "index.js",
+  "keywords": [
+    "catalogo",
+    "coches"
+  ],
+  "author": "Roberto Lodeiro",
+  "license": "MIT",
+  "dependencies": {
+    "musicmatch": "^0.3.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.12"
+  }
+}
